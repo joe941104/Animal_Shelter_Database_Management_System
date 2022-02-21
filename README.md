@@ -19,10 +19,10 @@ In this project, I create two file which is client_code.py and testcode.py. In t
 
 
 6.	EER Diagram
- ![EER_Diagram](https://user-images.githubusercontent.com/55035564/154881285-0c813a53-b8bc-4bc4-bf38-95b03e073c23.png)
+![EER_Diagram](https://user-images.githubusercontent.com/55035564/154881285-0c813a53-b8bc-4bc4-bf38-95b03e073c23.png)
 
 7.	Flow Chart
- ![Flow_chart](https://user-images.githubusercontent.com/55035564/154881292-e56e8d99-7e53-4d5d-8bc4-9637c41486df.jpg)
+![Flow_chart](https://user-images.githubusercontent.com/55035564/154881292-e56e8d99-7e53-4d5d-8bc4-9637c41486df.jpg)
 
 8.	User Interaction
 (1). When the application start, the user can log in by their password and username. If the username and password is right, continue. If the username and password is not right, it will end the program and show the error message.
